@@ -41,7 +41,7 @@ Here I present a recollection of the publications where I participated and the a
         - Conference article, *Jornadas I3A* 2020: [Omnidirectional Image Data-Set for Computer Vision Applications](https://despapiro.unizar.es/ojs/index.php/jji3a/article/view/4869)
             - Conference poster: [Poster.pdf](misc/Poster.pdf)
         - Code: [OmniSCV](https://github.com/Sbrunoberenguel/OmniSCV)
-        - Dataset: [Omnidirectional images dataset]()
+        - Dataset: [Omnidirectional images dataset](https://unizares-my.sharepoint.com/:f:/g/personal/berenguel_unizar_es/EqrU71B49gVDuACVTZ5U0uEBvIG802ntRSXzWJ9ddYDygw?e=6mJw4p)
     - Floor detection and extension for autonomous guidance:
         - Conference article, *ICARCV'20*: [Floor extraction and door detenction for visually impaired guidance](https://ieeexplore.ieee.org/abstract/document/9305464)
 
