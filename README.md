@@ -13,7 +13,7 @@ In December 2019, I presented my Master's Thesis on omnidirectional images under
 
 My Ph.D started in January 2020 in the same department and with the same advisors with which I did my Master's thesis (Why should I change something that works?). At that moment, my life as Ph.D student started, and here I am some years later. Though, the starting time was not the best 🦠😷🦠😷🦠, it allowed my to focus on publishing with less distractions (also called life). 
 
-My research interest is on ***Computer Vision*** and ***Deep learning***, and more specifically, *scene understanding from omnidirectional images*. I am also interested on geometrical and photometric approaches inside the computer vision field. I do have some experience on geometrical solutions (with great help of my advisors), but I have mostly focused on deep learning solutions in these last years. 
+My research interest is on ***Computer Vision*** and ***Deep learning***, and more specifically, *scene understanding from omnidirectional images*. I am also interested on geometrical and photometric approaches inside the computer vision field. I do have some experience on geometrical solutions (with great help of my advisors), but I have mostly focused on deep learning solutions in these last years. In my research stay in the [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/en/index.html) (Japan), I also got many help from fellow researchers on photometric approaches and with the combinations of methods I started in the field of practical applications of omnidirectional cameras.
 
 Here I present a recollection of the publications where I participated and the available code of some of them.
 
@@ -21,6 +21,9 @@ Here I present a recollection of the publications where I participated and the a
     - Semantic segmentation and depth estimation:
         - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions](https://arxiv.org/abs/2210.01595)
         - Code: [FreDSNet](https://github.com/Sbrunoberenguel/FreDSNet)
+    - Appplications with omnidirectional cameras:
+        - Workshop article, *CVPR'23* workshop *OmniCV*: [Visual Gyroscope: Combination of Deep Learning Features and Direct Alignment for Panoramic Stabilization](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Berenguel-Baeta_Visual_Gyroscope_Combination_of_Deep_Learning_Features_and_Direct_Alignment_CVPRW_2023_paper.pdf) 
+        - Code is in different repos. First part of the pipeline is: [HoLiNet](https://github.com/Sbrunoberenguel/HoLiNet)
 
 - 2022:
     - Scaled layout estimation from non-central panoramas:
