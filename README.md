@@ -4,7 +4,7 @@
 
 ### **About my persona**
 
-I started my Engineering degree in 2012, in the [University of Zaragoza](http://www.unizar.es). Then, in 2017, the 2-year Masters on Engineering followed. In my second year, I participated in the Erasmus+ program and went to the [RWTH Aachen University](https://www.rwth-aachen.de) (Germany) were I started to learn computer vision and deep learning. The Erasmus was followed by an internship at Universidad de Zaragoza, in the [Department of Computer Science and Systems Enginnering](https://diis.unizar.es). 
+I started my Engineering degree in 2012, in the [Universidad de Zaragoza](http://www.unizar.es). Then, in 2017, the 2-year Masters on Engineering followed. In my second year, I participated in the Erasmus+ program and went to the [RWTH Aachen University](https://www.rwth-aachen.de) (Germany) were I started to learn computer vision and deep learning. The Erasmus was followed by an internship at Universidad de Zaragoza, in the [Department of Computer Science and Systems Enginnering](https://diis.unizar.es). 
 
 In December 2019, I presented my Master's Thesis on omnidirectional images under the supervision of my advisors ([Jesús Bermudez-Cameo](https://webdiis.unizar.es/~bermudez/) and [Josechu Guerrero](https://webdiis.unizar.es/~jguerrer/)), which was the results of the internship in the department. 
 
