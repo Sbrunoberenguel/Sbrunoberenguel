@@ -34,7 +34,7 @@ Here I present a recollection of the publications where I participated and the a
 
 - 2021:
     - Layout estimation from non-central panoramas:
-        - Workshop article, CVPR'21* workshop *OmniCV*: [Scaled 360 Layouts: Revisiting Non-Central Panoramas
+        - Workshop article, *CVPR'21* workshop *OmniCV*: [Scaled 360 Layouts: Revisiting Non-Central Panoramas
 ](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/html/Berenguel-Baeta_Scaled_360_Layouts_Revisiting_Non-Central_Panoramas_CVPRW_2021_paper.html)
             - Video presentation: [Video](https://www.youtube.com/watch?v=pjHhiujSusM)
 
