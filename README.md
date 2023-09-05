@@ -18,19 +18,22 @@ My research interest is on ***Computer Vision*** and ***Deep learning***, and mo
 Here I present a recollection of the publications where I participated and the available code of some of them.
 
 - 2023:
+    - Distortion-aware neural networks:
+        - Conference article, *BMVC'23*: Calibrated deformable kernels forConvolutional Neural Networks
+            - Code: [Calibrated Convolutions](https://github.com/Sbrunoberenguel/CalibratedConvolutions)
     - Semantic segmentation and depth estimation:
-        - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions](https://arxiv.org/abs/2210.01595)
-        - Code: [FreDSNet](https://github.com/Sbrunoberenguel/FreDSNet)
-    - Appplications with omnidirectional cameras:
+        - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions]([https://arxiv.org/abs/2210.01595](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161142))
+            - Code: [FreDSNet](https://github.com/Sbrunoberenguel/FreDSNet)
+    - Omnidirectional image stabilization:
         - Workshop article, *CVPR'23* workshop *OmniCV*: [Visual Gyroscope: Combination of Deep Learning Features and Direct Alignment for Panoramic Stabilization](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Berenguel-Baeta_Visual_Gyroscope_Combination_of_Deep_Learning_Features_and_Direct_Alignment_CVPRW_2023_paper.pdf) 
-        - Code is in different repos. First part of the pipeline is: [HoLiNet](https://github.com/Sbrunoberenguel/HoLiNet)
+            - Code is in different repos. First part of the pipeline is: [HoLiNet](https://github.com/Sbrunoberenguel/HoLiNet)
 
 - 2022:
-    - Scaled layout estimation from non-central panoramas:
+    - Layout estimation from non-central panoramas:
         - Journal article, *Pattern Recognition* Elsevier: [Atlanta Scaled layouts from non-central panoramas](https://www.sciencedirect.com/science/article/pii/S0031320322002217)
-        - Code: [Scaled layouts](https://github.com/Sbrunoberenguel/scaledLayout)
+            - Code: [Scaled layouts](https://github.com/Sbrunoberenguel/scaledLayout)
         - Dataset article, *Data in brief* Elsevier: [Non-central panorama indoor dataset](https://www.sciencedirect.com/science/article/pii/S2352340922005728)
-        - Code (from Jesus Bermudez-Cameo repository): [Non Central Indoor dataset](https://github.com/jesusbermudezcameo/NonCentralIndoorDataset)
+            - Code (from Jesus Bermudez-Cameo repository): [Non Central Indoor dataset](https://github.com/jesusbermudezcameo/NonCentralIndoorDataset)
 
 - 2021:
     - Layout estimation from non-central panoramas:
@@ -41,10 +44,10 @@ Here I present a recollection of the publications where I participated and the a
 - 2020:
     - Omnidirectional image generator from Unreal Engine 4 virtual environments:
         - Journal article, *Sensors* MDPI: [OmniSCV: An omnidirectional synthetic image generator for computer vision](https://www.mdpi.com/1424-8220/20/7/2066)
+            - Code: [OmniSCV](https://github.com/Sbrunoberenguel/OmniSCV)
+            - Dataset: [Omnidirectional images dataset](https://unizares-my.sharepoint.com/:f:/g/personal/berenguel_unizar_es/EqrU71B49gVDuACVTZ5U0uEBvIG802ntRSXzWJ9ddYDygw?e=6mJw4p)
         - Conference article, *Jornadas I3A* 2020: [Omnidirectional Image Data-Set for Computer Vision Applications](https://despapiro.unizar.es/ojs/index.php/jji3a/article/view/4869)
             - Conference poster: [Poster.pdf](misc/Poster.pdf)
-        - Code: [OmniSCV](https://github.com/Sbrunoberenguel/OmniSCV)
-        - Dataset: [Omnidirectional images dataset](https://unizares-my.sharepoint.com/:f:/g/personal/berenguel_unizar_es/EqrU71B49gVDuACVTZ5U0uEBvIG802ntRSXzWJ9ddYDygw?e=6mJw4p)
     - Floor detection and extension for autonomous guidance:
         - Conference article, *ICARCV'20*: [Floor extraction and door detenction for visually impaired guidance](https://ieeexplore.ieee.org/abstract/document/9305464)
 
