@@ -22,7 +22,7 @@ Here I present a recollection of the publications where I participated and the a
         - Conference article, *BMVC'23*: Calibrated deformable kernels forConvolutional Neural Networks
             - Code: [Calibrated Convolutions](https://github.com/Sbrunoberenguel/CalibratedConvolutions)
     - Semantic segmentation and depth estimation:
-        - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions]([https://arxiv.org/abs/2210.01595](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161142))
+        - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions](https://ieeexplore.ieee.org/document/10161142)
             - Code: [FreDSNet](https://github.com/Sbrunoberenguel/FreDSNet)
     - Omnidirectional image stabilization:
         - Workshop article, *CVPR'23* workshop *OmniCV*: [Visual Gyroscope: Combination of Deep Learning Features and Direct Alignment for Panoramic Stabilization](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Berenguel-Baeta_Visual_Gyroscope_Combination_of_Deep_Learning_Features_and_Direct_Alignment_CVPRW_2023_paper.pdf) 
