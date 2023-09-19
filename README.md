@@ -19,7 +19,7 @@ Here I present a recollection of the publications where I participated and the a
 
 - 2023:
     - Distortion-aware neural networks:
-        - Conference article, *BMVC'23*: Calibrated deformable kernels forConvolutional Neural Networks
+        - Conference article, *BMVC'23*: Convolution kernel adaptation to calibrated fisheye
             - Code: [Calibrated Convolutions](https://github.com/Sbrunoberenguel/CalibratedConvolutions)
     - Semantic segmentation and depth estimation:
         - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions](https://ieeexplore.ieee.org/document/10161142)
