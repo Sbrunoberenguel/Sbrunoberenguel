@@ -9,17 +9,17 @@ I started my Engineering degree in 2012, in the [Universidad de Zaragoza](http:/
 In December 2019, I presented my Master's Thesis on omnidirectional images under the supervision of my advisors ([Jesús Bermudez-Cameo](https://webdiis.unizar.es/~bermudez/) and [Josechu Guerrero](https://webdiis.unizar.es/~jguerrer/)), which was the results of the internship in the department. 
 
 
-### **Ph.D (so far)** 
+### **Ph.D** 
 
-My Ph.D started in January 2020 in the same department and with the same advisors with which I did my Master's thesis (Why should I change something that works?). At that moment, my life as Ph.D student started, and here I am some years later. Though, the starting time was not the best 🦠😷🦠😷🦠, it allowed my to focus on publishing with less distractions (also called life). 
+My Ph.D started in January 2020 in the same department and with the same advisors with which I did my Master's thesis (Why should I change something that works?). At that moment, my life as Ph.D student started. Though, the starting time was not the best 🦠😷🦠😷🦠, it allowed my to focus on publishing with less distractions (also called life). In December 2023 I finally read my thesis, achieving the calification of *cum laude*.
 
 My research interest is on ***Computer Vision*** and ***Deep learning***, and more specifically, *scene understanding from omnidirectional images*. I am also interested on geometrical and photometric approaches inside the computer vision field. I do have some experience on geometrical solutions (with great help of my advisors), but I have mostly focused on deep learning solutions in these last years. In my research stay in the [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/en/index.html) (Japan), I also got many help from fellow researchers on photometric approaches and with the combinations of methods I started in the field of practical applications of omnidirectional cameras.
 
-Here I present a recollection of the publications where I participated and the available code of some of them.
+Here I present a collection of the publications where I participated and the available code of some of them.
 
 - 2023:
     - Distortion-aware neural networks:
-        - Conference article, *BMVC'23*: Convolution kernel adaptation to calibrated fisheye
+        - Conference article, *BMVC'23*: [Convolution kernel adaptation to calibrated fisheye](https://papers.bmvc2023.org/0721.pdf)
             - Code: [Calibrated Convolutions](https://github.com/Sbrunoberenguel/CalibratedConvolutions)
     - Semantic segmentation and depth estimation:
         - Conference article, *ICRA'23*: [FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions](https://ieeexplore.ieee.org/document/10161142)
