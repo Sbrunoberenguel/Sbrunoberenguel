@@ -1,6 +1,6 @@
 # Hello world !
 
-## I am Bruno Berenguel-Baeta, Ph. D student in Universidad de Zaragoza, Spain.
+## I am Bruno Berenguel-Baeta <p> Post-Doctoral researcher in Universidad de Zaragoza, Spain.
 
 ### **About my persona**
 
