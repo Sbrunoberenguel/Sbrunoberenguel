@@ -1,6 +1,6 @@
 # Hello world !
 
-## I am Bruno Berenguel-Baeta <p> Post-Doctoral researcher in Universidad de Zaragoza, Spain.
+## I am Bruno Berenguel-Baeta <p> Post-Doctoral researcher.
 
 ### **About my persona**
 
