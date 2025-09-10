@@ -16,6 +16,10 @@ My Ph.D started in January 2020 in the same department and with the same advisor
 My research interest is on ***Computer Vision*** and ***Deep learning***, and more specifically, *scene understanding from omnidirectional images*. I am also interested on geometrical and photometric approaches inside the computer vision field. I do have some experience on geometrical solutions (with great help of my advisors), but I have mostly focused on deep learning solutions in these last years. In my research stay in the [CNRS-AIST JRL](https://unit.aist.go.jp/jrl-22022/en/index.html) (Japan), I also got many help from fellow researchers on photometric approaches and with the combinations of methods I started in the field of practical applications of omnidirectional cameras.
 
 Here I present a collection of the publications where I participated and the available code of some of them.
+- 2025:
+  - Semantic segmentation and depth estimation:
+      - Journal article, *IET Image Processing* (ICRA'23 evolution): [Panoramic Depth and Semantic Estimation With Frequency and Distortion Aware Convolutions](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.70197)
+           - Code: [FreDSNet](https://github.com/Sbrunoberenguel/FreDSNet)
 
 - 2023:
     - Distortion-aware neural networks:
@@ -61,7 +65,6 @@ You can also find my research work on Google Scholar
 and Orcid 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/640px-ORCID_-_SuperTinyIcons.svg.png" width="25">](https://orcid.org/my-orcid?orcid=0000-0003-2674-4844)
 
-If you want to contact me directly, my email address is: berenguel@unizar.es
 
 I do hope this page helps someone to get to my work (and of course, that my work is useful for many many people). And also, to add some "color", here is one of the results of my research with non-central panoramas. Enjoy it hehe.
 
